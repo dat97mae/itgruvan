@@ -18,5 +18,9 @@ Concept cool stuff
   * Strategi vilka servrar man bör börja med
   * Nhi som general som instruerar sina trupper att ta över
 * Förstör varandras utrustning
-* 
+* Lämna digitala meddelanden / hån tillvarandra
+* Bryta sig in i varandras elektriska apparater, mobil, pacemaker, facebook, mail
+* hacka social media närvaro och identitet
+* hacka familjemedlemmars datorer, bankkonton
+* hacka hemliga databaser, sjukjournalet för att få info om andra hackare
 
