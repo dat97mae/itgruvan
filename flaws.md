@@ -21,3 +21,8 @@ Brainstorm
   * Humana valet, om man ser att man är på fel väg, välj ny riktning och hitta flow i denna
   * Skillnad på konstgjort flow och livsbefrämjande flow, på samma sätt som skillnad mellan droger
     och naturlig bliss. Helt enkelt att hjärnan har receptorer för detta.
+  * Varit inne i flow och förstör för sig själva
+  * Recovering alcoholic
+  * En detalj som kan knäcka henne
+* Flow kan användas för att dölja psykologiska problem
+	* Ibland 
