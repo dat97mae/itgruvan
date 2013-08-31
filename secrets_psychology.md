@@ -24,4 +24,17 @@ secrets psychology
     * Sedan, försöker ljuga om varför man gjorde det
   * Sedan kommer det ärliga
     * Jo, man gjorde en hemsk sak, men man mådde dåligt av någon anledning
-    
+
+Redemption psychology
+=====================
+
+- Tycker man förtjänar allt man får tillbaka
+- Vill offra sig själv för att slippa st dåliga samvetet
+- Räcket man gör lite något liknande fel, får mycket dåligt samvete
+- Måste verkligen erkänna för sig själv att man gjort fel, inte förmildra på något sätt.
+- Tror personen ogillar mer än vad de egentligen gör
+- måste förlåta sig själv, kan aldrig påverka de andra
+- Förlåtelse är en process, ett känslomässigt läkande. Efter erkännandet handlar det om att hitta tillbaka till varandra.Vilket är mycket jobbigare, kräver att verkligen sina svagheter och känslomässiga sår
+- Du kan lura dig själv att tro att du blivit en bättre människa bara du får den yttre förlåtelsen
+- du måste gå igenom känslorna tillsammans med den du gjorde illa. När de säger att de förstår varför du gjorde betyder inte de har förlåtit i sitt hjärta
+

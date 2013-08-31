@@ -21,6 +21,7 @@ Koncept
 * Nhi försöker hjälpa programmerarna utan att de vet om det
 	* Skickar instruktioner, de tror instruktionerna är från hackern
 * konflikterna ökar när killarna inser att deras företag är i riktig fara
+* En programmerare skriker på en annan att de tagit över tio konton, måste fixa hålet NU - programmerarstress
 
 Hemligheter
 ===========
@@ -39,4 +40,9 @@ Försoning
   * hjälper och lugnar ner de som ser stressade ut
 * killar får reda på sanning, skäller ut henne. Flera års trauma som kommer ut
 * Killar träffas på rättegång, första gång de ser varandra på riktigt.Diskuterar hur de ska mörda nhi (de säger han) om de någonsin får tag i honom. 
-
+* gruppen måste jobba med försoning samtidigt som attacken pågår
+* Nhi utnyttjar attacken för att killarna verkligen ska släppa ut sina känslor
+* Kille skiter i om företag går under, Nhi är extremt upprörd men måste rädda företag trots att han flippar ut. 
+* Kille blivit våldtagen i fängelse
+* Hon måste offra sig själv helt och hållet för att kunna rädda
+* Anger sig själv för att stoppa attacken
