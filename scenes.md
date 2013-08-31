@@ -20,6 +20,7 @@ Koncept
   * Hon brukar aldrig gå in bland dem, måste hitta en ursäkt
 * Nhi försöker hjälpa programmerarna utan att de vet om det
 	* Skickar instruktioner, de tror instruktionerna är från hackern
+* konflikterna ökar när killarna inser att deras företag är i riktig fara
 
 Hemligheter
 ===========
@@ -28,4 +29,14 @@ Hemligheter
 * Nhi tvingas avslöja sin bakgrund för att kunna få hjälpa till ordentligt
 	* Programmerarnas förvånade reaktioner första gången hon sätter sig ner vid datorerna
 
+Försoning
+=========
+
+* Blir intervjuad av de hon förrått
+  * konstig dubbelmening i allt hon säger
+  * Kan du datorer, osv
+* Nhi hackar deras webkameror för att kunna följa dem under attacken
+  * hjälper och lugnar ner de som ser stressade ut
+* killar får reda på sanning, skäller ut henne. Flera års trauma som kommer ut
+* Killar träffas på rättegång, första gång de ser varandra på riktigt.Diskuterar hur de ska mörda nhi (de säger han) om de någonsin får tag i honom. 
 
